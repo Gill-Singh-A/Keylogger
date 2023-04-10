@@ -16,10 +16,10 @@ But after compiling this with auto-py-to-exe this program was able to run in the
 To run this in background in Linux, we can add '&' at the end of the command. For example <br />
 If you run the file like this:
 ```bash
-$ python keylogger.py
+python keylogger.py
 ```
 To run it in background, add '&' at the end of the command:
 ```bash
-$ python keylogger.py &
+python keylogger.py &
 ```
 And to stop it from running you can use the 'top' command to see its Process ID and 'kill' command to kill it.
