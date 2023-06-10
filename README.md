@@ -8,6 +8,11 @@ Modules/Packages used:
 * time
 * datetime
 * colorama
+<!-- -->
+Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## Working
 It creates a file in the same directory in which the program is run with the name specifying the date and time of creation of the file.<br />
